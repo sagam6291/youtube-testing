@@ -1,0 +1,9 @@
+{
+  "test_case_id": "tc_0fbc3abecb21",
+  "title": "test 2",
+  "flow_name": "test_youtube_search_then_navigate_home_20260514_111919.py",
+  "browser": "chrome",
+  "lang": "python",
+  "source_file": "tests/test_2.py",
+  "created_at": "2026-05-14T11:20:10.342000"
+}
