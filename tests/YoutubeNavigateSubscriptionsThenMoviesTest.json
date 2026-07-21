@@ -1,0 +1,9 @@
+{
+  "test_case_id": "tc_26af6cccbd0b",
+  "title": "java test 1",
+  "flow_name": "YoutubeNavigateSubscriptionsThenMoviesTest_20260605_160746.java",
+  "browser": "chrome",
+  "lang": "java",
+  "source_file": "src/test/java/YoutubeNavigateSubscriptionsThenMoviesTest.java",
+  "created_at": "2026-06-05T16:09:04.308000Z"
+}
