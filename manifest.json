@@ -1,0 +1,60 @@
+{
+  "project_id": "proj_5c6bb1a4ef78",
+  "name": "youtube",
+  "description": "",
+  "os": "windows",
+  "os_version": "win11",
+  "default_browser": "chrome",
+  "test_case_count": 6,
+  "pushed_at": "2026-07-21T05:53:47.194214",
+  "test_cases": [
+    {
+      "test_case_id": "tc_bdd283224a5f",
+      "title": "test1",
+      "flow_name": "test_youtube_search_basic_query_20260514_111608.py",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/test1.py"
+    },
+    {
+      "test_case_id": "tc_0fbc3abecb21",
+      "title": "test 2",
+      "flow_name": "test_youtube_search_then_navigate_home_20260514_111919.py",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/test_2.py"
+    },
+    {
+      "test_case_id": "tc_87ab49cb7193",
+      "title": "test 4",
+      "flow_name": "test_youtube_subscriptions_redirects_unauthenticated_user_to_signin_20260514_120",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/test_4.py"
+    },
+    {
+      "test_case_id": "tc_083b0396125a",
+      "title": "test 3",
+      "flow_name": "test_youtube_search_intellicredence_20260515_055045.py",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/test_3.py"
+    },
+    {
+      "test_case_id": "tc_26af6cccbd0b",
+      "title": "java test 1",
+      "flow_name": "YoutubeNavigateSubscriptionsThenMoviesTest_20260605_160746.java",
+      "browser": "chrome",
+      "lang": "java",
+      "file": "tests/java_test_1.java"
+    },
+    {
+      "test_case_id": "tc_89084d98e82a",
+      "title": "java code v2",
+      "flow_name": "YoutubeNavigateMoviesThenGamingTest_20260605_173705.java",
+      "browser": "chrome",
+      "lang": "java",
+      "file": "tests/java_code_v2.java"
+    }
+  ]
+}
